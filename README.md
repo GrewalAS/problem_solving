@@ -10,6 +10,6 @@ The repository contains my solution to problems posed on LeetCode(https://leetco
 
 | Problem # or Name | URL to the problem                     | Location of Solution    | Language Used | Date Finished |
 | ----------------- | -------------------------------------- | ----------------------- | ------------- | ------------- |
-| 1. Two Sum        | https://leetcode.com/problems/two-sum/ | leetcode/leet_code_1.py | Python3       | May 12, 2021  |
+| 1. Two Sum        | https://leetcode.com/problems/two-sum/ | leetcode/1_two_sum.py   | Python3       | May 12, 2021  |
 
 Total LeetCode Problems Solved: 1
