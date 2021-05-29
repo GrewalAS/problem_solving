@@ -8,8 +8,9 @@ The repository contains my solution to problems posed on LeetCode(https://leetco
 
 ### LeetCode
 
-| Problem # or Name | URL to the problem                     | Location of Solution    | Language Used | Date Finished |
-| ----------------- | -------------------------------------- | ----------------------- | ------------- | ------------- |
-| 1. Two Sum        | https://leetcode.com/problems/two-sum/ | leetcode/1_two_sum.py   | Python3       | May 12, 2021  |
+| Problem # or Name  | URL to the problem                             | Location of Solution          | Language Used | Date Finished |
+| ------------------ | ---------------------------------------------- | ----------------------------- | ------------- | ------------- |
+| 1. Two Sum         | https://leetcode.com/problems/two-sum/         | leetcode/1_two_sum.py         | Python3       | May 12, 2021  |
+| 2. Add Two Numbers | https://leetcode.com/problems/add-two-numbers/ | leetcode/2_add_two_numbers.py | Python3       | May 29, 2021  |
 
 Total LeetCode Problems Solved: 1
